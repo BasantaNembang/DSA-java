@@ -115,5 +115,6 @@ public class binaryTree {
         // int cuntt=countTree(root);
         // System.out.println(cuntt);
         System.out.println(heightTree(root));
+        System.out.println("ADDEd");
     }
 }
